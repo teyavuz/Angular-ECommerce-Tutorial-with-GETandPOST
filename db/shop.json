@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Laptop",
+      "productID": 2,
+      "productEx": "ThinkPad X1 Carbon - 8+512 - intel CORE i5 vPro",
+      "productPrice": 10000,
+      "productSrc": "https://www.notebookcheck-tr.com/uploads/tx_nbc2/ThinkPad_X1_Carbon_G9_Black_05.jpg"
+    },
+    {
+      "id": 2,
+      "productName": "Masaüstü PC",
+      "productID": 2,
+      "productEx": "Toplama 16Gb Ram- 512G SSD- intel CORE i7 11200Q- RTX 2070",
+      "productPrice": 18000,
+      "productSrc": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/rampage/thumb/114456-anaaaa_small.jpg"
+    },
+    {
+      "id": 3,
+      "productName": "BT Kulaklık",
+      "productID": 3,
+      "productEx": "Huawei Freebuds SE- Mavi",
+      "productPrice": 650,
+      "productSrc": "https://www.huaweiailesi.com/wp-content/uploads/2022/05/resim_2022-05-07_134022736.png"
+    },
+    {
+      "id": 4,
+      "productName": "Monitör",
+      "productID": 1,
+      "productEx": "DELL 27inch 60Hz",
+      "productPrice": 3000,
+      "productSrc": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/dell/thumb/TeoriV2-105781-2_large.jpg"
+    },
+    {
+      "id": 5,
+      "productName": "Mouse",
+      "productID": 1,
+      "productEx": "Razer Basilisk X Hyperspeed v2",
+      "productPrice": 900,
+      "productSrc": "https://productimages.hepsiburada.net/s/191/375/110000157798098.jpg"
+    },
+    {
+      "id": 6,
+      "productName": "Klavye",
+      "productID": 1,
+      "productEx": "Razer Cynosa Lite Mekanik Klavye",
+      "productPrice": 1200,
+      "productSrc": "https://img.myipadbox.com/upload/store/detail_l/KB2651B_3.jpg"
+    },
+    {
+      "productID": "2",
+      "productName": "Huawei Matebook D15",
+      "productEx": "Huawei Matebook D15 AMD Ryzen 5 5500U 8GB 512GB SSD Windows 11 Home 15.6\" FHD Taşınabilir Bilgisayar",
+      "productSrc": "https://productimages.hepsiburada.net/s/170/550/110000132694460.jpg/format:webp",
+      "productPrice": 8499,
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Çevre Birimi"
+    },
+    {
+      "id": 2,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 3,
+      "name": "Kulaklık"
+    }
+  ]
+}
